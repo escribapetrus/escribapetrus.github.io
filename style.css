@@ -1,0 +1,45 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+    background-color: whitesmoke;
+}
+p {
+    text-transform: lowercase;
+}
+h1 {
+    font-size: 3.3rem;
+    color: rgb(40,30,45);
+}
+
+h1,h4 {
+    font-family: 'Bilbo Swash Caps', cursive;
+    color: rgb(40,30,45);
+}
+a {
+    color: inherit;
+}
+
+.container{
+    padding: 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    width: 100%;
+}
+.content-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.social{
+    margin-top: 30px;
+    font-size: 2rem;
+}
+.social i{
+    margin: 0 20px
+}
