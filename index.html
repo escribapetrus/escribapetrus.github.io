@@ -11,52 +11,72 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>const Petrus = {</h1>
-            <p class="subtitle">tech: ['node', 'express', 'django', 'react', 'sass', 'mysql', 'mongodb'],</p>
-            <p class="subtitle">lang: ['javascript', 'python', 'html', 'css', 'english', 'french', 'spanish', 'portuguese'],</p>
-            <p class="subtitle">
-                quote: 'celui dont les pensers, comme des alouettes,
-                Vers les cieux le matin prennent un libre essor,
-                — Qui plane sur la vie, et comprend sans effort
-                Le langage des fleurs et des choses muettes !' }
-            </p>
+            <h1>let petrus = () => {</h1>
+            <p class="subtitle"><strong>tech:</strong> ['node', 'express', 'django', 'react', 'sass', 'mysql', 'mongodb'],</p>
+            <p class="subtitle"><strong>lang:</strong> ['javascript', 'python'],</p>
+            <p class="subtitle"><strong>lang_:</strong> ['english', 'french', 'spanish', 'portuguese']}</p>
         </div>
         <div class="portfolio">
             <div class="content">
                 <div class="content-header">
                     <h3>Playitt</h3>
-                    <h4><a href="https://petrus-crwn-clothing.netlify.com/">access here</a></h4>
+                    <span><a href="https://petrus-crwn-clothing.netlify.com/">access here</a></span>
                 </div>
-                <p>Music forum loosely based on Reddit. Create playlists and comment on others. <em>Built on Python/Django.</em></p>
+                <p>Music forum loosely based on Reddit. Create playlists and comment on others. Built on Python/Django.</p>
             </div>
             <div class="content">
                 <div class="content-header">
                     <h3>Loyal Gun</h3>
-                    <h4><a href="http://loyalgun.com.br">access here</a></h4>
+                    <span><a href="http://loyalgun.com.br">access here</a></span>
                 </div>
                 <p>Official website for the São Paulo rock band Loyal Gun, built on React and Bootstrap.</p>
             </div>
             <div class="content">
                 <div class="content-header">
                     <h3>Yelp Castle</h3>
-                    <h4><a href="http://yelp-castle.herokuapp.com">access here</a></h4>
+                    <span><a href="http://yelp-castle.herokuapp.com">access here</a></span>
                 </div>                
-                <p>Encyclopedia of castles. Built on Node and Express, database on MongoDB, frontend built on EJS and Bootstrap. <em>Educational only.</em></p>
+                <p>Encyclopedia of castles. Built on Node and Express, database on MongoDB, frontend built on EJS and Bootstrap.</p>
             </div>
 
             <div class="content">
                 <div class="content-header">
                     <h3>Metalinox</h3>
-                    <h4><a href="https://www.metalinoxsp.com.br/">access here</a></h4>
+                    <span><a href="https://www.metalinoxsp.com.br/">access here</a></span>
                 </div>
-                <p>Institutional website for the Italian stainless steel company Metalinox. Built on wordpress.<em></em></p>
+                <p>Institutional website for the Italian stainless steel company Metalinox. Built on Wordpress.<em></em></p>
             </div>
             <div class="content">
                 <div class="content-header">
                     <h3>Jack Simoneia</h3>
-                    <h4><a href="https://http://www.jacksimoneia.com.br/">access here</a></h4>
+                    <span><a href="https://http://www.jacksimoneia.com.br/">access here</a></span>
                 </div>
                 <p>Institutional website for the hairdresser studio in Santa Catarina, built on Wordpress.<em></em></p>
+            </div>
+        </div>
+        <div class="portfolio">
+            <h3 >Fun programs and algorithms:</h3>
+            <div class="content">
+                <div class="content-header">
+                    <h4>Musical Scales</h4>
+                </div>
+                <p>
+                    Program that takes a musical note and a scale name, and gives back all notes in the scale.
+                    Available in:
+                    <a href="https://github.com/escribapetrus/general-exercises/blob/master/games-and-challenges/musical-scales/musical-scales.scm">scheme (lisp),</a>
+                    <a href="https://github.com/escribapetrus/general-exercises/blob/master/games-and-challenges/musical-scales/musical-scales.py">python,</a>
+                    <a href="https://github.com/escribapetrus/general-exercises/blob/master/games-and-challenges/musical-scales/musical-scales.js">javascript.</a>
+                </p>
+            </div>
+            <div class="content">
+                <div class="content-header">
+                    <h4>Mastermind</h4>
+                </div>
+                <p>
+                    Console game of Mastermind. Generates a secret, and player has to guess based on correct guesses. 
+                    Available in:
+                    <a href="https://github.com/escribapetrus/general-exercises/tree/master/games-and-challenges/python-mastermind">python.</a>
+                </p>
             </div>
         </div>
         <div class="social">
@@ -65,6 +85,14 @@
         </div>
     </div>
     
+    <footer>            
+        <p class="subtitle">
+        <em>Celui dont les pensers, comme des alouettes,
+        vers les cieux le matin prennent un libre essor,
+        — qui plane sur la vie, et comprend sans effort
+        le langage des fleurs et des choses muettes !'</em> - Baudelaire
+        </p>
+    </footer>
     
     <script src="https://kit.fontawesome.com/644d5cd5d1.js" crossorigin="anonymous"></script>
 </body>
