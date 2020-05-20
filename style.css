@@ -5,14 +5,14 @@ body {
     color: rgb(20,20,20);
     background-color: whitesmoke;
 }
-p {
+h1,h2,h3,h4,h5,p {
+    margin: 0;
 }
 h1 {
     font-size: 3.3rem;
-    color: rgb(40,30,45);
 }
 
-h1,h4 {
+h1, span {
     font-family: 'Bilbo Swash Caps', cursive;
     color: rgb(40,30,45);
 }
@@ -34,6 +34,10 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 10px;
+}
+.content {
+    margin: 20px 0;
 }
 .social{
     margin-top: 30px;
@@ -41,4 +45,7 @@ a {
 }
 .social i{
     margin: 0 20px
+}
+footer{
+    margin-bottom: 50px;
 }
