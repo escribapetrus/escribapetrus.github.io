@@ -10,6 +10,7 @@ h1,h2,h3,h4,h5,p {
 }
 h1 {
     font-size: 3.3rem;
+    margin: 10px 0;
 }
 
 h1, span {
