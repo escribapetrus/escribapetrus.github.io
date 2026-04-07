@@ -1,1 +1,0 @@
-{application,blog,[{modules,['Elixir.Blog','Elixir.Blog.CLI','Elixir.Blog.Parser','Elixir.Blog.RSS','Elixir.Blog.Renderer']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger,earmark,yaml_elixir]},{description,"blog"},{registered,[]},{vsn,"0.1.0"}]}.
