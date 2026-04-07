@@ -1,5 +1,6 @@
 # Build artifacts
 blog
+test_blog
 src/*.o
 
 # Elixir

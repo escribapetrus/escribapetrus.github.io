@@ -1,19 +1,25 @@
 # Blog
 
-Personal blog powered by a custom Elixir static site generator.
+Personal blog powered by a custom C++ static site generator.
+
+## Requirements
+
+- C++17 compiler
+- [cmark](https://github.com/commonmark/cmark) (`brew install cmark` on macOS, `apt install libcmark-dev` on Ubuntu)
 
 ## Quick Start
 
 ```bash
-make build    # Generate site to docs/
+make build    # Compile generator + generate site to docs/
 make serve    # Build + serve at localhost:8000
+make test     # Run tests
+make clean    # Remove generated files and build artifacts
 ```
 
 ## Writing Posts
 
-Add markdown or org-mode files to `publish/`:
+Add markdown files to `publish/`:
 
-**Markdown** (`publish/my-post.md`):
 ```markdown
 ---
 title: "My Post Title"
@@ -25,25 +31,13 @@ tags: [tag1, tag2]
 Content goes here...
 ```
 
-**Org-mode** (`publish/my-post.org`):
-```org
-#+TITLE: My Post Title
-#+DATE: 2026-04-07
-#+DESCRIPTION: A short description
-#+TAGS: tag1, tag2
-
-Content goes here...
-```
-
 ## Structure
 
 ```
-publish/          # Source files (md/org)
-drafts/           # Work in progress (ignored)
-docs/             # Generated HTML (GitHub Pages)
-backup/           # Old site files
-generator/blog/   # Elixir generator
-config.yml        # Site configuration
+publish/       # Source markdown files
+docs/          # Generated HTML (GitHub Pages)
+src/           # C++ generator source
+config.yml     # Site configuration
 ```
 
 ## Configuration
