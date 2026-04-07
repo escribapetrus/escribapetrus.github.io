@@ -7,12 +7,11 @@ tags: [meta, blog]
 
 # Welcome
 
-This is the first post on my new blog, powered by a custom Elixir static site generator.
+This is the first post on my new blog, powered by a custom C++ static site generator.
 
 ## Features
 
 - Markdown support with **bold** and *italic*
-- Org-mode support (basic)
 - RSS feed generation
 - Minimal, oldschool academic design
 
