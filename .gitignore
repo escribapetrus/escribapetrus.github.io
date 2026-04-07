@@ -1,3 +1,7 @@
+# Build artifacts
+blog
+src/*.o
+
 # Elixir
 generator/blog/_build/
 generator/blog/deps/
@@ -6,5 +10,6 @@ generator/blog/.elixir_ls/
 
 .lexical/
 .expert/
+
 # OS
 .DS_Store
