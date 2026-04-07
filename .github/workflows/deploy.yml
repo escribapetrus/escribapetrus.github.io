@@ -20,14 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Elixir
-        uses: erlef/setup-beam@v1
-        with:
-          elixir-version: '1.16'
-          otp-version: '26'
-
-      - name: Run tests
-        run: make test
+      - name: Install cmark
+        run: sudo apt-get update && sudo apt-get install -y libcmark-dev
 
       - name: Build site
         run: make build

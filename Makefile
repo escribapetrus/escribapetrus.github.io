@@ -2,9 +2,9 @@
 
 CXX      := c++
 CXXFLAGS := -std=c++17 -Wall -Wextra -O2
-CMARK    := $(shell brew --prefix cmark 2>/dev/null || echo /usr/local)
-CPPFLAGS := -I$(CMARK)/include
-LDFLAGS  := -L$(CMARK)/lib -lcmark
+CMARK    := $(shell brew --prefix cmark 2>/dev/null)
+CPPFLAGS := $(if $(CMARK),-I$(CMARK)/include)
+LDFLAGS  := $(if $(CMARK),-L$(CMARK)/lib) -lcmark
 
 SRC_DIR := src
 SRCS    := $(SRC_DIR)/main.cpp $(SRC_DIR)/parser.cpp $(SRC_DIR)/renderer.cpp $(SRC_DIR)/rss.cpp
