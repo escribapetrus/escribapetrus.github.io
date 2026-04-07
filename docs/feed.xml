@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Schreiber</title>
+    <link>https://escribapetrus.github.io</link>
+    <description>Personal writings and notes</description>
+    <language>en</language>
+    <atom:link href="https://escribapetrus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+  <title>Hello World</title>
+  <link>https://escribapetrus.github.io/posts/hello-world.html</link>
+  <guid>https://escribapetrus.github.io/posts/hello-world.html</guid>
+  <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+  <description><![CDATA[First post on the new blog]]></description>
+</item>
+
+  </channel>
+</rss>

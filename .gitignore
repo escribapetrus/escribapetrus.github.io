@@ -1,0 +1,8 @@
+# Elixir
+generator/blog/_build/
+generator/blog/deps/
+generator/blog/*.ez
+generator/blog/.elixir_ls/
+
+# OS
+.DS_Store
