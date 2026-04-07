@@ -1,4 +1,4 @@
-.PHONY: build clean serve deps help setup
+.PHONY: build clean serve deps help setup test
 
 GENERATOR_DIR := generator/blog
 
@@ -8,6 +8,7 @@ help:
 	@echo "  make build   - Generate the static site"
 	@echo "  make serve   - Build and serve locally (port 8000)"
 	@echo "  make clean   - Remove generated files"
+	@echo "  make test    - Run tests"
 	@echo "  make deps    - Update dependencies"
 
 setup:
@@ -15,6 +16,9 @@ setup:
 
 deps:
 	cd $(GENERATOR_DIR) && mix deps.update --all
+
+test: setup
+	cd $(GENERATOR_DIR) && mix test
 
 build: setup
 	cd $(GENERATOR_DIR) && mix run -e "Blog.build(config: \"../../config.yml\", source_dir: \"../../publish\", output_dir: \"../../docs\")"

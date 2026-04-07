@@ -64,7 +64,7 @@ defmodule Blog do
     end
   end
 
-  defp valid?(f), do: Path.extname(f) in [".md", ".markdown", ".org"]
+  defp valid?(f), do: Path.extname(f) in [".md", ".markdown"]
 end
 
 defmodule Blog.CLI do

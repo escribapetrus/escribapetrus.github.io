@@ -26,15 +26,11 @@ jobs:
           elixir-version: '1.16'
           otp-version: '26'
 
-      - name: Install dependencies
-        run: |
-          cd generator/blog
-          mix deps.get
+      - name: Run tests
+        run: make test
 
       - name: Build site
-        run: |
-          cd generator/blog
-          mix run -e "Blog.build(config: \"../../config.yml\", source_dir: \"../../publish\", output_dir: \"../../docs\")"
+        run: make build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

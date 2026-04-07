@@ -4,5 +4,7 @@ generator/blog/deps/
 generator/blog/*.ez
 generator/blog/.elixir_ls/
 
+.lexical/
+.expert/
 # OS
 .DS_Store
