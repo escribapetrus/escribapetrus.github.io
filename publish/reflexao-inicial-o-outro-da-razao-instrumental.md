@@ -1,6 +1,6 @@
 ---
 title: "Preliminary reflection: the other of the instrumental reason? (no answer)"
-date: 2026-04-07
+date: 2026-06-25
 description: "First post on the new blog"
 tags: [meta, blog]
 ---
