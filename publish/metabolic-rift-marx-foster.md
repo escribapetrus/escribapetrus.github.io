@@ -24,7 +24,7 @@ Before the introduction of modern fertilizers, produced from the mineral extract
 
 -----
 
-Further reading:
+## Further reading
 
 Foster, J. B. *Marx's Ecology: Materialism and Nature*. New York: Monthly Review Press, 2000.
 

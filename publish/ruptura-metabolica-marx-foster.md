@@ -24,7 +24,7 @@ Antes da introdução dos fertilizantes modernos, produzidos a partir da extraç
 
 -----
 
-Leitura complementar:
+## Leitura complementar
 
 Foster, J. B. *Marx's Ecology: Materialism and Nature*. New York: Monthly Review Press, 2000.
 
