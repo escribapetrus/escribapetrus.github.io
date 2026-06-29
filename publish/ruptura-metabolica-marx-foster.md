@@ -25,9 +25,13 @@ Antes da introdução dos fertilizantes modernos, produzidos a partir da extraç
 -----
 
 Leitura complementar:
+
 Foster, J. B. *Marx's Ecology: Materialism and Nature*. New York: Monthly Review Press, 2000.
+
 Marx, K. *Capital*, Vol. I. Trans. Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
+
 Hugo, V. *Les Misérables*. Paris: Émile Testard, 1890. 
+
 Fraser, N. *Cannibal Capitalism*. London: Verso Books, 2025.
 
 (Traduzido do inglês usando o Deepseek.)
