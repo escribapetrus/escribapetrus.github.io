@@ -5,3 +5,17 @@ The reverse of any optimism is, as the great pioneer of cybernetics Norbert Wien
 newer research is going beyond the purely random probability (or competitive capitalism) model of Big Data toward a rules-based abstract logical representation of the world. With ongoing high financing by our rulers, in a few years they might get there. If the new rules for modelling the world would embed the capitalocene framework of values and norms into the algorithms, we would get a fascist caste system of new slavery.
 
 https://www.historicalmaterialism.org/article/i-am-afraid-of-ai/
+
+
+# Cognition
+
+Even the critical discourse regarding technology is plagued by fetishistic language. For example, people talk and write about a _cognitive decline caused by AI_, for which, thought there are signs, there is no scientific consenus. If we take Marx's example from the section of Fetishism, he describes a fantastics scenario, _"could commodities themselves speak_, they would say..."_ (cf. Marx I I I §§4). There is didactic value in this absurd hypothetical. It serves as a vaccine, an instinctive trigger response against fetishistic language that gives vitality and social agency to inanimate, dead artifacts.
+
+But beyond the problem of _brain rot_, there is a concrete and true aspect of the social phenomenon of cognitive decline. 
+
+> The world in which we live is – as I have argued in ‘Words and Lesions’ – determined by ongoing violent lesions of billions, top-down events initiated by the ruling classes in their own interests. They function in vicious feedback with the new hegemony’s cognitive degradation which is easily channelled into nationalism, racism, and finally fascism (cf. Suvin).
+
+
+> Third, in capitalism algorithms are financially valuable only inasmuch they can ‘convert … knowledge into exchange-value – monetization – and its exponentially increasing accumulation’, the titanic oligopolies on the Internet. Insofar as they ‘constitute fixed capital, algorithms appear “as a presupposition against which the value-creating power of the individual labour capacity is an infinitesimal, vanishing magnitude”’ (Terranova, the internal quote is from Marx’s ‘Fragment on Machines’ in the Grundrisse). To the contrary, this method to extract surplus from activities not heretofore understood as labour might be possibly – and most usefully – be applied to turn algorithms into use-value: (cf. Suvin)
+
+
