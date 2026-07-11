@@ -26,10 +26,10 @@ Before the introduction of modern fertilizers, produced from the mineral extract
 
 ## Further reading
 
-Foster, J. B. *Marx's Ecology: Materialism and Nature*. New York: Monthly Review Press, 2000.
+Foster, John Bellamy. *Marx's Ecology: Materialism and Nature*. New York: Monthly Review Press, 2000.
 
-Marx, K. *Capital*, Vol. I. Trans. Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
+Fraser, Nancy. *Cannibal Capitalism*. London: Verso, 2025.
 
-Hugo, V. *Les Misérables*. Paris: Émile Testard, 1890. 
+Hugo, Victor. *Les Misérables*. Paris: Émile Testard, 1890.
 
-Fraser, N. *Cannibal Capitalism*. London: Verso Books, 2025.
+Marx, Karl. *Capital*. Vol. 1. Translated by Samuel Moore and Edward Aveling. London: Wordsworth, 2013.

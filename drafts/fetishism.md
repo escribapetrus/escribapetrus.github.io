@@ -78,21 +78,18 @@ We have established that the development of capitalist society is marked by the 
 
 ## Further reading
 
-Marx, K. *Capital*, Vol. I. Trans. Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
+Foster, John Bellamy. "The Fetishism of AI." *Monthly Review* 78, no. 1 (May 2026). https://monthlyreview.org/articles/the-fetishism-of-ai/.
 
-Marx, K. Engels, F. *The Communist Manifesto*
+Harrington de Santana, Anne. "Nuclear Weapons as the Currency of Power: Deconstructing the Fetishism of Force." *Nonproliferation Review* 16, no. 3 (November 2009). https://www.nonproliferation.org/wp-content/uploads/2014/08/npr_16-3_harrington_de_santana.pdf.
 
-Foster, J. B. *The Fetishism of AI*, Monthly Review,  Vol. 78, No. 01 (May 2026) https://monthlyreview.org/articles/the-fetishism-of-ai/
+Marx, Karl. *Capital*. Vol. 1. Translated by Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
 
-Harrington, A. *Nuclear weapons as the currency of power: deconstructing the fetishism of force* in Nonproliferation Review, Vol. 16, No. 3, November 2009, https://www.nonproliferation.org/wp-content/uploads/2014/08/npr_16-3_harrington_de_santana.pdf
+Marx, Karl, and Friedrich Engels. *The Communist Manifesto*. 1848.
 
-Morozov, E. *The rise of data and the death of politics*, The Guardian, 2014  https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
+Morozov, Evgeny. "The Rise of Data and the Death of Politics." *Guardian*, July 20, 2014. https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation.
 
-Darko Suvin, *I AM AFRAID OF AI: A POLITICO-EPISTEMOLOGICAL EXASPERATION*, Historical Materialism, 2026 (https://www.historicalmaterialism.org/article/i-am-afraid-of-ai/).
+Myers, Caitlin K., and Ezekiel Hooper. "Is the iPhone Birth Control? Causal Evidence from AT&T's 2007–2011." NBER Working Paper 35310. Cambridge, MA: National Bureau of Economic Research, June 2026. https://www.nber.org/system/files/working_papers/w35310/w35310.pdf.
 
+Suvin, Darko. "I Am Afraid of AI: A Politico-Epistemological Exasperation." *Historical Materialism*, 2026. https://www.historicalmaterialism.org/article/i-am-afraid-of-ai/.
 
-
-Astra Taylor and Saul Levin, *The fight against AI datacenters isn’t just about tech – it’s about democracy*. The Guardian, 2026
-https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy
-
-Caitlin K. Myers, Ezekiel Hooper, IS THE IPHONE BIRTH CONTROL? CAUSAL EVIDENCE FROM AT&T’S 2007–2011. NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138 June 2026 https://www.nber.org/system/files/working_papers/w35310/w35310.pdf
+Taylor, Astra, and Saul Levin. "The Fight against AI Datacenters Isn't Just about Tech—It's about Democracy." *Guardian*, May 8, 2026. https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy.

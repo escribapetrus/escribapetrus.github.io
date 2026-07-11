@@ -1,6 +1,6 @@
 ---
-title: "Dr. Strangelove or: How I Haven't Learned to Stop Worrying Yet"
-subtitle: "Notes on solutionism, value, and AI"
+title: "Two visions on magic and fetishism"
+subtitle: "Notes on computers and how we use them"
 date: 2026-06-28
 description: "How the language of magic and fetishism helps expose what solutionism and AI conceal about value, labor, and power."
 tags: [meta, blog]
@@ -58,26 +58,24 @@ In all these domains, ranging from political economy to warfare, science and tec
 
 ## Further reading
 
-Abelson, H., and Sussman, G. J. "Structure and Interpretation of Computer Programs, The MIT Press Cambridge, Massachusetts    
+Abelson, Harold, and Gerald Jay Sussman. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press, 1996.
 
-Foster, J. B. "The Fetishism of AI." *Monthly Review*, vol. 78, no. 1 (May 2026). https://monthlyreview.org/articles/the-fetishism-of-ai/
+Foster, John Bellamy. "The Fetishism of AI." *Monthly Review* 78, no. 1 (May 2026). https://monthlyreview.org/articles/the-fetishism-of-ai/.
 
-Harrington de Santana, A. "Nuclear Weapons as the Currency of Power: Deconstructing the Fetishism of Force." *Nonproliferation Review*, vol. 16, no. 3 (November 2009). https://www.nonproliferation.org/wp-content/uploads/2014/08/npr_16-3_harrington_de_santana.pdf
+Harrington de Santana, Anne. "Nuclear Weapons as the Currency of Power: Deconstructing the Fetishism of Force." *Nonproliferation Review* 16, no. 3 (November 2009). https://www.nonproliferation.org/wp-content/uploads/2014/08/npr_16-3_harrington_de_santana.pdf.
 
-Marx, K. *Capital*, vol. I. Trans. Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
+Marx, Karl. *Capital*. Vol. 1. Translated by Samuel Moore and Edward Aveling. London: Wordsworth, 2013.
 
-Marx, K. *The Poverty of Philosophy* (1847).
+Marx, Karl. *The Poverty of Philosophy*. 1847.
 
-Marx, K., and F. Engels. *The Communist Manifesto* (1848).
+Marx, Karl, and Friedrich Engels. *The Communist Manifesto*. 1848.
 
-Morozov, E. "The Rise of Data and the Death of Politics." *The Guardian*, 20 July 2014. https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
+Morozov, Evgeny. "The Rise of Data and the Death of Politics." *Guardian*, July 20, 2014. https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation.
 
-Naur, P. "Programming as Theory Building." *Microprocessing and Microprogramming*, vol. 15, no. 5 (1985).
+Naur, Peter. "Programming as Theory Building." *Microprocessing and Microprogramming* 15, no. 5 (1985).
 
-Taylor, A., and S. Levin. "The Fight Against AI Datacenters Isn't Just About Tech – It's About Democracy." *The Guardian*, 8 May 2026. https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy
+Taylor, Astra, and Saul Levin. "The Fight against AI Datacenters Isn't Just about Tech—It's about Democracy." *Guardian*, May 8, 2026. https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy.
 
-Tönnies, F. *Gemeinschaft und Gesellschaft* [Community and Society] (1887).
+Tönnies, Ferdinand. *Gemeinschaft und Gesellschaft* [Community and Society]. 1887.
 
-*World Inequality Database.* https://wid.world
-
-World Inequality Database https://wid.world
+World Inequality Database. Accessed July 11, 2026. https://wid.world/.

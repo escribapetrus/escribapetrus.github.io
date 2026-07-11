@@ -25,6 +25,6 @@ Descartes, René. *Les Passions de l'âme*. Paris: Henry Le Gras, 1649.
 
 Horkheimer, Max. *Eclipse of Reason*. New York: Oxford University Press, 1947.
 
-McCarthy, John. "Ascribing Mental Qualities to Machines." In *Philosophical Perspectives in Artificial Intelligence*, edited by Martin Ringle, 161–195. Atlantic Highlands, NJ: Humanities Press, 1979.
+McCarthy, John. "Ascribing Mental Qualities to Machines." In *Philosophical Perspectives in Artificial Intelligence*, edited by Martin Ringle, 161–95. Atlantic Highlands, NJ: Humanities Press, 1979.
 
 (Traduzido do inglês usando o Deepseek.)
