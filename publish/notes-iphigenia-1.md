@@ -2,7 +2,7 @@
 title: "The free decision to stone your king"
 subtitle: "First notes on the reading of 'Iphigenia in Aulis'"
 author: "Pedro Schreiber"
-date: 2026-06-28
+date: 2026-07-12
 description: ""
 tags: [meta, blog]
 ---
