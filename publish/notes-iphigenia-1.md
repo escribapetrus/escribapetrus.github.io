@@ -1,0 +1,29 @@
+---
+title: "The free decision to stone your king"
+subtitle: "First notes on the reading of 'Iphigenia in Aulis'"
+author: "Pedro Schreiber"
+date: 2026-06-28
+description: ""
+tags: [meta, blog]
+---
+
+Tragedy operates as a microcosm of conflicts between men and the gods, and between men amongst themselves. Iphigenia through her death, acts as the vehicle for the resolution of conflicts by divine intervention and political agreement. 
+
+The couple of would-be lovers, Iphigenia and Achilles, represent how the _tourbillon_ of natural and human forces affect actors, and how interest and duty determine actions, in a dialectical articulation of internal and external normatives. In these first notes, we explore the relation of _obedience and disobedience of subjects towards their king_, as presented in Iphigenia in Aulis.
+
+The nature of _sovereignty_, in ancient Greek society, even if the same word "king" (βασιλεύς) is used now and then, has radically different contents when compared to modern society. If we trace an arbitrary historical line from which we may talk about a modern concept of _monarchy_, say, beginning with Hobbes and his Leviathan, which incarnates sovereignty over the political body of civil society through the instrument of an original contract, we perceive that, despite contingent differences between absolute and constitutional monarchies, an underlying thread binds them, i.e. a self-determined, autonomous concept of sovereignty as a fundamental substance of power and constitutive principle of the people under a state.
+
+In the so-called Greek world, represented in the tragedy, a different reality is revealed. Obedience to the sovereign is not presupposed by the citizen's belonging to the _polis_, nor by the king's hierarchical place in society, but only by the convenience of his leadership to the interest of the troops in the times of war. Free citizens recognize in one amongst themselves one who excels in martial and rhetorical talent, and push him to the front of the hosts to conduct them to victory. It is for this reason, Euripides explains, that Achilles offers his obedience to Agamemnon, as payment for the offer to win glory by crossing the sea and sacking Ilion. In the moment when he offends his honour, by using him in his schemes to bring Iphigenia to the port of Aulis to be sacrificed, Peleus' son sees no more reason to submit himself to the Atride. He explains it clearly when the queen Clytemnestra exposes her husband's malice. Says Achilles: _"Provided the Atridae lead aright, I will obey them; but when they cease therefrom, no more will I obey. Nay, but here (in Aulis) and in Troy I will show the freedom of my nature"_.
+
+The freedom of the Greek citizen makes relations of power require a recognition of the virtue of the king and the utility of his command; after all, the free citizen knows that obedience means renouncing himself to a will external to himself. The Trojan War, at first as a personal project of the Atride Menelaus, justified by his duty for vengeance against Paris after the abduction of Helen, requires necessarily, as a condition of its success, the mobilization of a massive army of Achaean soldiers. To effect this movement, the title of his brother Agamemnon is not enough. The staff that grants him command over the Greeks must be conquered through their consent. Confronted for having violated the seal of a letter held by a messenger, confessing to the queen of Mycenae the true reason of her summoning to Aulis, the king of Lacedaemon explains to his brother the frailty of his authority: _"Ag. What right has thou to watch my doings? Is not this a proof of shamelessness? Men. My wish to do it gave the spur, for I am no slave to thee"_.
+
+This way of life marked by an idea of individual independence is identified by Hegel in his investigations about Greek art, which we can read in his Course on Aesthetics. From it, the philosopher produces an interpretation about the political life and the way in which citizens relate to one another and to the authority figures. _"These also (Homeric heroes) have a chief in common, but it is not a fixed and immutable law which binds one another, imposing submission; spontaneously, by virtue of free decision, they follow Agamemnon, who is not a monarch in the modern sense of the word"_ (Hegel, _Vorlesungen über die Ästhetik_, I, ch. 3).
+
+This free decision is what leads Achilles, king of the Myrmidons, to the risk of being stoned by his own troops. By giving himself the will and intention to defend Iphigenia and save her from being sacrificed to Artemis, the son of Peleus puts himself in the position of antagonist to the interests of the Achaean mob. Iphigenia saved would mean the failure to placate the goddess, the continuity of the sea storms, and the defeat at the Trojan War. Achilles, insulted by Agamemnon who uses his name in the scheme for bringing his daughter to the port of Aulis, heroically arms himself to defend the maiden and, more importantly, his own honour. But the physical strength of his men is bigger than his regal authority, and he is forced to flee to avoid being stoned by the Achaeans. Questioned by Clytemnestra whether his Myrmidons would not be at his side for help, the unhappy son of the goddess answers: "They were the first who turned against me".
+
+## Further reading
+
+- Euripides. _Iphigenia in Aulis_. Trans. E. P. Coleridge, in _The Complete Greek Drama_, ed. Whitney J. Oates and Eugene O'Neill Jr. New York: Random House, 1938. (Quotations above follow this translation.)
+- Hegel, G. W. F. _Vorlesungen über die Ästhetik_ (Lectures on Aesthetics). Ed. H. G. Hotho. Berlin, 1835–38. English: _Aesthetics: Lectures on Fine Art_, trans. T. M. Knox. Oxford: Clarendon Press, 1975.
+- Hobbes, Thomas. _Leviathan_. Ed. Richard Tuck. Cambridge: Cambridge University Press, 1996 [1651].
+
