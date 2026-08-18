@@ -1,7 +1,7 @@
 ---
 title: "Computers and their ‘metaphysical subtleties and theological niceties’"
 subtitle: "Notes on the fetishism of computer programs and other magical artifacts"
-date: 2026-06-28
+date: 2026-08-18
 tags: [meta, blog]
 ---
 
