@@ -5,8 +5,6 @@ date: 2026-08-18
 tags: [meta, blog]
 ---
 
-# Computers and their ‘metaphysical subtleties and theological niceties’
-
 Informational computing has always had a mystifying aspect that practitioners and theoreticians did not ignore. The textbook for the classic theoretical computing course at MIT, “Structure and Interpretation of Computer Programs”, opens with these words:
 
 > “People create programs to direct processes. In effect, we conjure the spirits of the computer with our spells. A computational process is indeed much like a sorcerer’s idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory. The programs we use to conjure processes are like a sorcerer’s spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform” (Abelson and Sussman, SICP, Preface).
